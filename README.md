@@ -25,7 +25,7 @@ The **Dental Cavity Detection System** is an advanced AI-powered tool designed t
 ## Installation
 - Clone the repository:  
   ```bash
-  git clone https://github.com/malikanees530/dental-cavity-detection.git
+  [[git clone https://github.com/malikanees530/dental-cavity-detection.git](https://github.com/MalikAnees530/Dental-Cavity-Detection-System.git)](https://github.com/MalikAnees530/Dental-Cavity-Detection-System.git)
   ```
 - Install dependencies:  
   ```bash
