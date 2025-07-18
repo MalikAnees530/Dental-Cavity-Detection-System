@@ -1,22 +1,22 @@
-# Dental Cavity Detection System
+# 🦷 Dental Cavity Detection System
 
 ## Overview
 The **Dental Cavity Detection System** is an advanced AI-powered tool designed to analyze dental X-ray images and detect cavities with high accuracy. Leveraging a Convolutional Neural Network (CNN), this project provides an efficient and reliable diagnostic solution for dental professionals.
 
-## Features
+## ⚙️ Features
 - **AI-Driven Analysis:** Utilizes a custom-trained CNN to identify cavities in X-ray images.
 - **Input Support:** Accepts JPG, PNG, and DICOM file formats.
 - **User-Friendly Interface:** Features a web-based platform with drag-and-drop upload and an "Analyze Image" button.
 - **Confidence Scoring:** Provides a confidence score with each detection result.
 - **Real-Time Results:** Delivers instant feedback to enhance workflow efficiency.
 
-## Technical Details
+## 💻 Technical Details
 - **Backend:** Developed using Python with the Flask framework and PyTorch for model inference.
 - **Model Architecture:** A CNN with convolutional and fully connected layers, optimized for X-ray analysis.
 - **Preprocessing:** Includes image resizing and tensor transformation for model compatibility.
 - **Deployment:** Hosted locally with a debug port (5000) for testing.
 
-## How to Use
+## 🚀 How to Use
 1. Upload a dental X-ray image (JPG, PNG, or DICOM) via the web interface.
 2. Click the "Analyze Image" button to initiate detection.
 3. Receive a detailed result indicating the presence of a cavity and confidence level.
