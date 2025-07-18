@@ -49,6 +49,5 @@ The **Dental Cavity Detection System** is an advanced AI-powered tool designed t
 - **LinkedIn:** [https://www.linkedin.com/in/malik-anees-ahmed-1a3307291/](https://www.linkedin.com/in/malik-anees-ahmed-1a3307291/)
 
 
-## Acknowledgments
-- Thanks to the open-source community for tools like PyTorch and Flask.
+
 
